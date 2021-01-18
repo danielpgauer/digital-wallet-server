@@ -1,0 +1,11 @@
+{
+  "name": "digital-wallet-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:danielccunha/digital-wallet-server.git",
+  "author": "Daniel Cunha <danielcunha54@gmail.com>",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
